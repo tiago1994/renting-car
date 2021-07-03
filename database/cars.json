@@ -1,0 +1,23 @@
+[
+    {
+        "id": "02ee9b7f-f469-4d00-ae7b-8812d43cef63",
+        "name": "Corvette",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "ec067d86-9fd7-4c94-b7ae-a5c01b1a5b60",
+        "name": "A8",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "ffc35cc8-f88f-4051-ad5a-81e4318ea872",
+        "name": "PT Cruiser",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    }
+]
